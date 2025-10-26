@@ -4,7 +4,7 @@
   <id>https://3lkr.github.io/</id>
   <title>3lkr</title>
   <subtitle>This blog is a space for me to share and discuss cybersecurity topics. Your feedback and ideas are always welcome.</subtitle>
-  <updated>2025-10-26T19:10:19+01:00</updated>
+  <updated>2025-10-26T19:15:27+01:00</updated>
   <author>
     <name>AIT-EL MOUDDENE Ossama</name>
     <uri>https://3lkr.github.io/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>Dive into AMSI BYPASS</title>
-    <link href="https://3lkr.github.io/posts/AMSI/" rel="alternate" type="text/html" title="Dive into AMSI BYPASS" />
+    <title>AMSI Evasion - Runtime DLL Load Interception</title>
+    <link href="https://3lkr.github.io/posts/AMSI/" rel="alternate" type="text/html" title="AMSI Evasion - Runtime DLL Load Interception" />
     <published>2025-10-26T00:00:00+02:00</published>
   
     <updated>2025-10-26T00:00:00+02:00</updated>
