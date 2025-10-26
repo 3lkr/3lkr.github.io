@@ -1,7 +1,7 @@
 [
   
   {
-    "title": "Dive into AMSI BYPASS",
+    "title": "AMSI Evasion - Runtime DLL Load Interception",
     "url": "/posts/AMSI/",
     "categories": "Maldev",
     "tags": "AMSI",

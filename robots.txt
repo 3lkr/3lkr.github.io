@@ -1,5 +1,1 @@
-User-agent: *
-
-Disallow: /norobots/
-
-Sitemap: https://3lkr.github.io/sitemap.xml
+WELL I LOVE ROBOTS :)
