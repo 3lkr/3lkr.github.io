@@ -4,7 +4,7 @@
   <id>https://3lkr.github.io/</id>
   <title>3lkr</title>
   <subtitle>This blog is a space for me to share and discuss cybersecurity topics. Your feedback and ideas are always welcome.</subtitle>
-  <updated>2025-10-26T18:52:14+01:00</updated>
+  <updated>2025-10-26T19:10:19+01:00</updated>
   <author>
     <name>AIT-EL MOUDDENE Ossama</name>
     <uri>https://3lkr.github.io/</uri>
@@ -20,8 +20,8 @@
 
   
   <entry>
-    <title>AMSI Evasion - Runtime DLL Load Interception</title>
-    <link href="https://3lkr.github.io/posts/AMSI/" rel="alternate" type="text/html" title="AMSI Evasion - Runtime DLL Load Interception" />
+    <title>Dive into AMSI BYPASS</title>
+    <link href="https://3lkr.github.io/posts/AMSI/" rel="alternate" type="text/html" title="Dive into AMSI BYPASS" />
     <published>2025-10-26T00:00:00+02:00</published>
   
     <updated>2025-10-26T00:00:00+02:00</updated>
@@ -38,7 +38,7 @@
     
   
 
-  <summary>Introduction  While exploring the .NET CLR, I’ve always been fascinated by the process of loading assemblies mapping entry points, inspecting methods and classes, and manipulating the loading context itself. In my journey in malware development, I used to craft heavily obfuscated and packed C# payloads. Statically, they evaded detection with ease no suspicious API calls, clean imports. But the ...</summary>
+  <summary>Zero-Patch &amp; Advanced AMSI bypass technique</summary>
 
   </entry>
 
