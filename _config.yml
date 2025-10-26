@@ -2,15 +2,20 @@
 
 # Import the theme
 remote_theme: cotes2020/jekyll-theme-chirpy@v5.6.0
+readtime: false
+plugins:
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: en
 
-readtime: false
-
-
-
+# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
+timezone: Europe/Paris
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -41,11 +46,7 @@ social:
    
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-plugins:
-  - jekyll-remote-theme
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
+
 
 # Site Verification Settings
 webmaster_verifications:
